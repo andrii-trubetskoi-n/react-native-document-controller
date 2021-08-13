@@ -1,32 +1,4 @@
 {
-  "_args": [
-    [
-      "react-native-document-controller@git+https://github.com/zaporozhetsAnton/react-native-document-controller.git",
-      "/Users/atrubetskoi/Projects/FarmGate_app"
-    ]
-  ],
-  "_from": "react-native-document-controller@https://github.com/zaporozhetsAnton/react-native-document-controller",
-  "_id": "react-native-document-controller@git+ssh://git@github.com/zaporozhetsAnton/react-native-document-controller.git#94e1ec86837d902bb2f6be4783165a949922b49b",
-  "_inBundle": false,
-  "_integrity": "",
-  "_location": "/react-native-document-controller",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "git",
-    "raw": "react-native-document-controller@https://github.com/zaporozhetsAnton/react-native-document-controller",
-    "name": "react-native-document-controller",
-    "escapedName": "react-native-document-controller",
-    "rawSpec": "https://github.com/zaporozhetsAnton/react-native-document-controller",
-    "saveSpec": "git+https://github.com/zaporozhetsAnton/react-native-document-controller.git",
-    "fetchSpec": "https://github.com/zaporozhetsAnton/react-native-document-controller.git",
-    "gitCommittish": null
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "git+ssh://git@github.com/zaporozhetsAnton/react-native-document-controller.git#94e1ec86837d902bb2f6be4783165a949922b49b",
-  "_spec": "https://github.com/zaporozhetsAnton/react-native-document-controller",
-  "_where": "/Users/atrubetskoi/Projects/FarmGate_app",
   "author": {
     "name": "Devin Eldreth",
     "email": "devin.eldreth@gmail.com"
